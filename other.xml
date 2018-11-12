@@ -1,0 +1,27 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/py36/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/py37/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/sr/bin/python" value="true" />
+        <entry key="/usr/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/py36/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/py37/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/sr/bin/python" value="true" />
+        <entry key="/usr/bin/python2.7" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/py36/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/py37/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/sr/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
