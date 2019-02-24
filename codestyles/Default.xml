@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="999" />
-  <option name="SOFT_MARGINS" value="72,90" />
+  <option name="SOFT_MARGINS" value="72" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
