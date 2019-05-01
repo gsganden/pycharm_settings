@@ -9,6 +9,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌥⌘B'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run...">
         <Item>
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
