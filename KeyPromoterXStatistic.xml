@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>21</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -78,7 +78,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -102,6 +102,14 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌃⌥R'</ShortCut>
           <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌘⌦'</ShortCut>
+          <Description>Safe Delete...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
