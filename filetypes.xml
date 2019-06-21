@@ -5,12 +5,13 @@
       <mapping pattern="JenkinsPipeline" type="Groovy" />
       <mapping pattern="test_ops_image" type="PLAIN_TEXT" />
       <mapping pattern="outpath_funcs" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-cuda" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="test_swagger" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
     </extensionMap>
