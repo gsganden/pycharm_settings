@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="JenkinsPipeline" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="test_preprocessing_utils.py" type="PLAIN_TEXT" />
       <mapping pattern="test_ops_image" type="PLAIN_TEXT" />
       <mapping pattern="outpath_funcs" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-cuda" type="PLAIN_TEXT" />
