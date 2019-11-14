@@ -16,6 +16,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6" />
         <root url="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6/lib-dynload" />
@@ -45,6 +46,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/anaconda3/envs/cv/lib/python3.7" />
         <root url="file://$USER_HOME$/anaconda3/envs/cv/lib/python3.7/lib-dynload" />
@@ -72,6 +74,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/anaconda3/envs/fastai/lib/python3.7" />
         <root url="file://$USER_HOME$/anaconda3/envs/fastai/lib/python3.7/lib-dynload" />
@@ -99,6 +102,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/anaconda3/envs/fastec2-experiments/lib/python3.7" />
         <root url="file://$USER_HOME$/anaconda3/envs/fastec2-experiments/lib/python3.7/lib-dynload" />
@@ -113,11 +117,15 @@
       </SOURCES>
     </library>
     <library name="R Skeletons">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/r_skeletons/1481726564" />
+      </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Remote Python 3.7.3 Docker (gred:latest) interpreter library">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
