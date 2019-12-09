@@ -126,5 +126,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.7.4 Docker (jam:latest) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
