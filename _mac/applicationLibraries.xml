@@ -158,6 +158,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.7.5 Docker (bertie_botts:latest) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Remote Python 3.7.5 Docker (newt:latest) interpreter library">
       <CLASSES />
       <JAVADOC />
