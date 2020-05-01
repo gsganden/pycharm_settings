@@ -148,6 +148,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 2.7.16 (sftp://ec2-user@10.233.10.67:22/usr/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Remote Python 3.7.3 Docker (gred:latest) interpreter library">
       <CLASSES />
       <JAVADOC />
